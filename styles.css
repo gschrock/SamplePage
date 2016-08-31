@@ -1,0 +1,58 @@
+/**
+ * NavBar Styling
+ */
+.dropdown-menu {
+  background-color: #406694;
+  font-style: Arial;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+  background-color: #406694;
+  background-image: none;
+  color: white;
+}
+
+.dropdown-menu > li > a {
+  background-color: #406694;
+  color: white;
+}
+
+.dropdown-menu > li > a:hover {
+  background-color: #37567E;
+  background-image: none;
+  color: white;
+}
+
+.submit {
+  background-color: #406694;
+  background-image: none;
+  color: white;
+  text-shadow: none;
+}
+
+.btn-default:hover {
+  background-color: #37567E;
+  background-image: none;
+  color: white;
+}
+
+/**
+ * Media Content Styling
+ */
+.media {
+  margin: 0px 100px 0px 30px;
+  height: 200px;
+  width: 700px;
+  padding: 30px 0px 0px 0px;
+  border-bottom: 1px solid #CACACA;
+}
+
+.media-heading {
+  color: #406694;
+}
+
+.date, 
+.topics, 
+.snippet {
+  border-bottom: 1px solid #CACACA;
+}
